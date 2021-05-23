@@ -1,9 +1,9 @@
 #
-# @file Character.py
+# @file CharacterStatus.py
 # @author Mayuki
 #
 
-class Character:
+class CharacterStatus:
 
     def __init__(self):
         self._status = {
